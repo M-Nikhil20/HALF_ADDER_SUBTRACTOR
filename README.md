@@ -69,8 +69,8 @@ endmodule
 ```
 
 ```
-Developed by : S ADITYA
-Registration numbr : 212223040007
+Developed by : M NIKHIL
+Registration numbr : 212222230095
 ```
 # Truth Table :
 ## Half-adder:
